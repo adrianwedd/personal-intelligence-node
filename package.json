@@ -29,7 +29,7 @@
     "vitest": "3.2.4"
   },
   "dependencies": {
-    "dompurify": "^3.0.3",
+    "dompurify": "^3.3.2",
     "gray-matter": "^4.0.3",
     "jsdom": "^26.1.0",
     "lunr": "^2.3.9",
